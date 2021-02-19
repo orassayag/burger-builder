@@ -15,15 +15,15 @@ describe('<BurgerBuilder />', () => {
         wrapper = shallow(<BurgerBuilder onInitIngrediencies={() => { }} />);
     });
 
-    it('it should render <BuildControls /> when reciving ingrediencies', () => {
+    it('it should render <BuildControls /> when receiving ingrediencies', () => {
         wrapper.setProps({
             ings: {
                 salad: 0,
                 meat: 0,
                 bacon: 0,
                 cheese: 0
-            } 
+            }
         });
         expect(wrapper.find(BuildControls)).toHaveLength(1);
-    }); 
-});   
+    });
+});

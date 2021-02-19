@@ -27,12 +27,14 @@
         width: auto;
         align-items: center;
     }
+
     .navigation-item a {
         color: #ffffff;
         height: 100%;
         padding: 16px 10px;
         border-bottom: 4px solid transparent;
     }
+
     .navigation-item a:hover,
     .navigation-item a:active,
     .navigation-item a.active {

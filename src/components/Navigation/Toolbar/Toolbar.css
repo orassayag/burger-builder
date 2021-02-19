@@ -21,10 +21,8 @@
     height: 80%;
 }
 
-@media(max-width: 499px)
-{
-    .desktop-only
-    {
+@media(max-width: 499px) {
+    .desktop-only {
         display: none;
     }
 }

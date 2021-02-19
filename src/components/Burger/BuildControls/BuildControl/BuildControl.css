@@ -35,7 +35,7 @@
     width: 80px;
 }
 
-.build-control .less {  
+.build-control .less {
     background-color: #d39952;
     color: #ffffff;
 }
@@ -45,12 +45,14 @@
     color: #ffffff;
 }
 
-.build-control .less:hover, .build-control .less:active {  
+.build-control .less:hover,
+.build-control .less:active {
     background-color: #daa972;
     color: #ffffff;
 }
 
-.build-control .more:hover,.build-control .more:active {
+.build-control .more:hover,
+.build-control .more:active {
     background-color: #99703f;
     color: #ffffff;
 }

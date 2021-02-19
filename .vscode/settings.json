@@ -1,3 +1,34 @@
 {
-    "eslint.options": { "configFile": "C:/Or/Web/ReactLearning/21/burger-builder/.eslintrc.json" }
+    "eslint.options": {
+        "configFile": "C:/Or/Web/ReactLearning/21/burger-builder/.eslintrc.json"
+    },
+    "cSpell.words": [
+        "APZZY",
+        "CNAME",
+        "Cond",
+        "INGREDIENCIES",
+        "Intelli",
+        "Netlify",
+        "Netlify’s",
+        "React's",
+        "SIGNUP",
+        "Serializers",
+        "Signin",
+        "Unmount",
+        "doesnt",
+        "dont",
+        "firebaserc",
+        "hrefs",
+        "ings",
+        "momentjs",
+        "mydirectory",
+        "mypublicdevhost",
+        "orassayag",
+        "overriden",
+        "recompiles",
+        "s",
+        "sockjs",
+        "todos",
+        "unregister"
+    ]
 }
