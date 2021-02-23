@@ -4,7 +4,7 @@ Start to be built in May 2018. Workflow and final project of the 'React - The Co
 The client built in React, and always updated with the latest version of create-react-app
 (https://github.com/facebook/create-react-app).
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
