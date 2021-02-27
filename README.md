@@ -1,6 +1,6 @@
 # Burger Builder
 
-Start to be built in May 2018. Workflow and final project of the 'React - The Complete Guide (incl Hooks, React Router, Redux)' course by Academind by Maximilian Schwarzmüller
+Built in May 2018. Workflow and final project of the 'React - The Complete Guide (incl Hooks, React Router, Redux)' course by Academind by Maximilian Schwarzmüller
 The client built in React, and always updated with the latest version of create-react-app
 (https://github.com/facebook/create-react-app).
 
