@@ -1,8 +1,6 @@
 # Burger Builder
 
-Built in May 2018. Workflow and final project of the 'React - The Complete Guide (incl Hooks, React Router, Redux)' course by Academind by Maximilian Schwarzmüller
-The client built in React, and always updated with the latest version of create-react-app
-(https://github.com/facebook/create-react-app).
+Built in May 2018. Workflow and final project of the 'React - The Complete Guide (incl Hooks, React Router, Redux)' course by Academind by Maximilian Schwarzmüller The client built in React, and always updated with the latest version of create-react-app (https://github.com/facebook/create-react-app).
 
 ## Getting Started with Create React App
 
@@ -85,4 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## License
 
-This application has UNLICENSED License.
+This application has an UNLICENSED License.
