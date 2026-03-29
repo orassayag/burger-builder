@@ -1,10 +1,35 @@
 {
   "name": "burger-builder",
   "version": "0.1.0",
+  "description": "Interactive React application for building custom burgers with real-time pricing, user authentication, and order management. Features Redux state management, React Router navigation, and Firebase integration.",
   "private": false,
+  "license": "MIT",
+  "author": {
+    "name": "Or Assayag",
+    "email": "orassayag@gmail.com",
+    "url": "https://github.com/orassayag"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/orassayag/burger-builder.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "burger-builder",
+    "firebase",
+    "react-router",
+    "redux-thunk",
+    "authentication",
+    "single-page-application",
+    "spa",
+    "order-management",
+    "interactive-ui",
+    "real-time-pricing"
+  ],
+  "homepage": "https://github.com/orassayag/burger-builder#readme",
+  "bugs": {
+    "url": "https://github.com/orassayag/burger-builder/issues"
   },
   "dependencies": {
     "autoprefixer": "7.1.6",
