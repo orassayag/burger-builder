@@ -9,6 +9,7 @@ Everyone is welcome to contribute to this project. Contributing doesn't just mea
 ### Reporting Issues
 
 If you find a bug or have a feature request:
+
 1. Check if the issue already exists in the [GitHub Issues](https://github.com/orassayag/burger-builder/issues)
 2. If not, create a new issue with:
    - Clear title and description
@@ -32,12 +33,14 @@ If you find a bug or have a feature request:
 ### Code Style Guidelines
 
 This project uses:
+
 - **React** with class components
 - **Redux** for state management
 - **ESLint** for code quality
 - **Create React App** configuration
 
 Before submitting:
+
 ```bash
 # Check for linting errors
 npm run lint
@@ -55,7 +58,7 @@ npm start
 1. **Component Structure**: Follow the existing pattern of separating containers from presentational components
 2. **Redux Actions**: Keep actions simple and use Redux Thunk for async operations
 3. **Naming**: Use clear, descriptive names for components, actions, and reducers
-4. **File Organization**: 
+4. **File Organization**:
    - Components go in `src/components/`
    - Containers go in `src/containers/`
    - Redux logic goes in `src/store/`
@@ -65,6 +68,7 @@ npm start
 ### Adding New Features
 
 When adding new features:
+
 1. Create appropriate components in `src/components/` or `src/containers/`
 2. Add Redux actions/reducers in `src/store/` if state management is needed
 3. Update routing in `src/App.jsx` if new pages are added
@@ -75,12 +79,14 @@ When adding new features:
 ### Component Guidelines
 
 **Presentational Components** (`src/components/`):
+
 - Should be stateless when possible
 - Focus on how things look
 - Receive data and callbacks via props
 - Use CSS modules for styling
 
 **Container Components** (`src/containers/`):
+
 - Connect to Redux store
 - Handle business logic
 - Pass data to presentational components
@@ -96,6 +102,7 @@ When adding new features:
 ### Testing
 
 When adding new features, consider adding tests:
+
 - Unit tests for utility functions
 - Component tests for complex components
 - Integration tests for Redux flows
@@ -104,9 +111,9 @@ When adding new features, consider adding tests:
 
 Please feel free to contact me with any question, comment, pull-request, issue, or any other thing you have in mind.
 
-* Or Assayag <orassayag@gmail.com>
-* GitHub: https://github.com/orassayag
-* StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
-* LinkedIn: https://linkedin.com/in/orassayag
+- Or Assayag <orassayag@gmail.com>
+- GitHub: https://github.com/orassayag
+- StackOverflow: https://stackoverflow.com/users/4442606/or-assayag?tab=profile
+- LinkedIn: https://linkedin.com/in/orassayag
 
 Thank you for contributing! 🙏
